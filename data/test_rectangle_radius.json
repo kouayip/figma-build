@@ -1,0 +1,122 @@
+{
+  "document": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "0:1",
+        "name": "Page 1",
+        "type": "CANVAS",
+        "children": [
+          {
+            "id": "1:3",
+            "name": "MacBook - 1",
+            "type": "FRAME",
+            "blendMode": "PASS_THROUGH",
+            "children": [
+              {
+                "id": "2:0",
+                "name": "Rectangle 1",
+                "type": "RECTANGLE",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": -223.0,
+                  "y": -25.0,
+                  "width": 443.0,
+                  "height": 48.0
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 1.0,
+                      "g": 0.0,
+                      "b": 0.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "effects": [],
+                "cornerRadius": 10.0,
+                "rectangleCornerRadii": [10.0, 10.0, 10.0, 10.0]
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": -577.0,
+              "y": -351.0,
+              "width": 1152.0,
+              "height": 700.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "clipsContent": true,
+            "background": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1.0,
+                  "g": 1.0,
+                  "b": 1.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "backgroundColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "effects": []
+          }
+        ],
+        "backgroundColor": {
+          "r": 0.89803922176361084,
+          "g": 0.89803922176361084,
+          "b": 0.89803922176361084,
+          "a": 1.0
+        },
+        "prototypeStartNodeID": null,
+        "prototypeDevice": {
+          "type": "NONE",
+          "rotation": "NONE"
+        }
+      }
+    ]
+  },
+  "components": {},
+  "schemaVersion": 0,
+  "styles": {},
+  "name": "Untitled",
+  "lastModified": "2020-12-27T23:43:47Z",
+  "thumbnailUrl": "https://s3-alpha-sig.figma.com/thumbnails/bf760242-f447-47fe-a302-3a176ffdf084?Expires=1609718400&Signature=Hf8SnRz78LeWAhJFn1m6XS4jwCc6qYuOEpxdUeWmbJ4bVqOeyrJWMk1A-iZ9Gmk-5buqylI9RZyt6p5mvAp7P4bnFDJs9np1n~-QhwQwsg8LdUxWo5OUJT-FNw9sKKmK-1-0dHLXqNqv9PpHIcMQlugAGyuc02ER11~C5LdqLyAjMbZmVZnG-LrwtFp9o7JMGZOL-npgRNKt-f~56GlwiQ9Bq4HQOXkacT7wm4CdosK5wFJzvEXEzC6JhT9k008ukX~r6nfcs1nNIXTG-Ph37qdukmpaK1uopiyF8xJSlThCwO4-A7nH-plqvFoCKQS-680bXXIWZa3cqGLTjTi0og__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+  "version": "605455987",
+  "role": "owner"
+}
